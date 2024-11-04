@@ -1,3 +1,3 @@
 <h1>Netflix clone <h1>
-<img align="right" alt="coding" width="400" src=![image](https://github.com/user-attachments/assets/840b961a-4237-4a64-a189-477d3c267a0b)
+<img align="center" alt="coding" width="400" src=https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940
 >
